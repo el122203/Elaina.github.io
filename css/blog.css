@@ -1,4 +1,7 @@
 /* BLOG CSS */
+body {
+  background-color: lightpink
+}
 .bio {
   float: left;
   margin-top: 15px;
