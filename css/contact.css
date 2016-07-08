@@ -1,4 +1,7 @@
 /* CONTACT CSS */
+body {
+  background-color:lightgreen;
+}
 .conmypic {
   width: 250px;
   height: 250px;
